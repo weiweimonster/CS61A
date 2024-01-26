@@ -1,0 +1,4 @@
+'switch-correct', (0, 70)
+'ebnf-pycombinator-correct', (512, 70)
+'wwrm-correct', (1024, 70)
+'eval-calls-correct', (1536, 70)
